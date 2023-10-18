@@ -1,4 +1,4 @@
-# POC-AWS-SDK-V3-Get-file-via-link
+# AWS SDK example get file from presigned HTTP and HTTPS link
 
 ## Disclaimer
 This is example code for PoC or demo only. DO NOT USE IN PRODUCTION !
